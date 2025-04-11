@@ -3,7 +3,7 @@
 🛡️ Cybersecurity enthusiast | 🐧 Linux user | 💡 Self-taught hacker-in-progress  
 🎯 Currently learning: TryHackMe | Bash | Web Exploitation  
 📜 First badge: `cat linux.txt` - Linux beginner certified  
-🌍 Dreaming big from [Your Country] to the world
+🌍 Dreaming big from Nigeria to the world
 
 ## 🔧 Tools & Skills
 - Linux (basic CLI)
@@ -19,4 +19,4 @@
 - Become a certified ethical hacker 🧠
 
 ## 📫 How to reach me:
-[Email | LinkedIn | Discord tag if you want to share]
+[Email:georgeiwebafa@gmail.com.Discord:Çÿbēr👾👨💻§åïñt]
